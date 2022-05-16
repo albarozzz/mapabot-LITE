@@ -1,0 +1,10 @@
+git+https://github.com/iDevision/enhanced-discord.py.git
+numpy
+tweepy
+asyncio
+setuptools
+pytesseract
+pillow
+yt_dlp
+moviepy
+loguru
